@@ -207,15 +207,15 @@ The GIFs show how the global velocity layer introduces temporal separation along
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig2.png" width="310"><br>
 <b>Random-Obstacle</b>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig4.png" width="310"><br>
 <b>Intersection</b>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig6.png" width="310"><br>
 <b>Narrow-Channel</b>
 </td>
@@ -298,31 +298,31 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig7.png" width="470"><br>
 <b>Random-Obstacle: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig8.png" width="470"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig9.png" width="470"><br>
 <b>Intersection: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig10.png" width="470"><br>
 <b>Intersection: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig11.png" width="470"><br>
 <b>Narrow-Channel: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig12.png" width="470"><br>
 <b>Narrow-Channel: front-wheel steering-angle profiles</b>
 </td>
@@ -392,14 +392,14 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 <img src="figs/fig13.png" width="470"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="20%">
 <img src="figs/fig14.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
 </tr>
 </table>
 
-<p align="center">
+<p align="center" width="20%">
 <img src="figs/fig19.png" width="650"><br>
 <b>Measured velocity profiles</b>
 </p>
