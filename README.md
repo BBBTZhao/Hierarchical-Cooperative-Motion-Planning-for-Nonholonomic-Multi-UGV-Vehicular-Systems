@@ -72,15 +72,15 @@ The following plots show the velocity information obtained together with the glo
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig1.png" width="310"><br>
 <b>Random-Obstacle</b>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig3.png" width="310"><br>
 <b>Intersection</b>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="figs/fig5.png" width="310"><br>
 <b>Narrow-Channel</b>
 </td>
