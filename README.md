@@ -392,14 +392,14 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 <img src="figs/fig13.png" width="470"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="figs/fig14.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
 </tr>
 </table>
 
-<p align="center" width="20%">
+<td align="center" width="25%">
 <img src="figs/fig19.png" width="650"><br>
 <b>Measured velocity profiles</b>
 </p>
@@ -418,14 +418,14 @@ The 3-D trajectories visualize the temporal evolution of the vehicle motions, wh
 <img src="figs/fig15.png" width="470"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="figs/fig16.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
 </tr>
 </table>
 
-<p align="center">
+<td align="center" width="25%">
 <img src="figs/fig20.png" width="650"><br>
 <b>Measured velocity profiles</b>
 </p>
@@ -444,14 +444,14 @@ The trajectory plots show how the vehicles execute the coordinated passing order
 <img src="figs/fig17.png" width="470"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="figs/fig18.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
 </tr>
 </table>
 
-<p align="center">
+<td align="center" width="25%">
 <img src="figs/fig21.png" width="650"><br>
 <b>Measured velocity profiles</b>
 </p>
