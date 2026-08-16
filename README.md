@@ -302,7 +302,7 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 <img src="figs/fig7.png" width="350"><br>
 <b>Random-Obstacle: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="55%">
 <img src="figs/fig8.png" width="350"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
@@ -312,7 +312,7 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 <img src="figs/fig9.png" width="350"><br>
 <b>Intersection: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="55%">
 <img src="figs/fig10.png" width="350"><br>
 <b>Intersection: front-wheel steering-angle profiles</b>
 </td>
@@ -322,7 +322,7 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 <img src="figs/fig11.png" width="350"><br>
 <b>Narrow-Channel: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="55%">
 <img src="figs/fig12.png" width="350"><br>
 <b>Narrow-Channel: front-wheel steering-angle profiles</b>
 </td>
