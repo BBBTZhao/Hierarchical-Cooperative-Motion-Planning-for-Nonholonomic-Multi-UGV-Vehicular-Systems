@@ -399,7 +399,7 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 </tr>
 </table>
 
-<td align="center" width="25%">
+<td align="center" width="10%">
 <img src="figs/fig19.png" width="650"><br>
 <b>Measured velocity profiles</b>
 </p>
