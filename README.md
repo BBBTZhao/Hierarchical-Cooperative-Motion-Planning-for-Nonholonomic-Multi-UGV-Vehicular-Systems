@@ -388,15 +388,15 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 
 <table>
 <tr>
-<td align="center" width="38%">
+<td align="center" width="37%">
 <img src="figs/fig13.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="24%">
+<td align="center" width="26%">
 <img src="figs/fig14.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
-<td align="center" width="38%">
+<td align="center" width="37%">
 <img src="figs/fig19.png" width="400"><br>
 <b>Measured velocity profiles</b>
 </tr>
