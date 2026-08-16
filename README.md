@@ -298,32 +298,32 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 
 <table>
 <tr>
-<td align="center" width="40%">
-<img src="figs/fig7.png" width="200"><br>
+<td align="center" width="50%">
+<img src="figs/fig7.png" width="400"><br>
 <b>Random-Obstacle: velocity profiles</b>
 </td>
-<td align="center" width="40%">
+<td align="center" width="50%">
 <img src="figs/fig8.png" width="400"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="40%">
-<img src="figs/fig9.png" width="300"><br>
+<td align="center" width="50%">
+<img src="figs/fig9.png" width="400"><br>
 <b>Intersection: velocity profiles</b>
 </td>
-<td align="center" width="40%">
-<img src="figs/fig10.png" width="470"><br>
+<td align="center" width="50%">
+<img src="figs/fig10.png" width="400"><br>
 <b>Intersection: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="figs/fig11.png" width="470"><br>
+<img src="figs/fig11.png" width="400"><br>
 <b>Narrow-Channel: velocity profiles</b>
 </td>
 <td align="center" width="50%">
-<img src="figs/fig12.png" width="470"><br>
+<img src="figs/fig12.png" width="400"><br>
 <b>Narrow-Channel: front-wheel steering-angle profiles</b>
 </td>
 </tr>
@@ -389,7 +389,7 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="figs/fig13.png" width="470"><br>
+<img src="figs/fig13.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
 <td align="center" width="25%">
@@ -400,7 +400,7 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 </table>
 
 <td align="center" width="10%">
-<img src="figs/fig19.png" width="650"><br>
+<img src="figs/fig19.png" width="500"><br>
 <b>Measured velocity profiles</b>
 </p>
 
@@ -415,7 +415,7 @@ The 3-D trajectories visualize the temporal evolution of the vehicle motions, wh
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="figs/fig15.png" width="470"><br>
+<img src="figs/fig15.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
 <td align="center" width="25%">
@@ -426,7 +426,7 @@ The 3-D trajectories visualize the temporal evolution of the vehicle motions, wh
 </table>
 
 <td align="center" width="25%">
-<img src="figs/fig20.png" width="650"><br>
+<img src="figs/fig20.png" width="500"><br>
 <b>Measured velocity profiles</b>
 </p>
 
@@ -441,7 +441,7 @@ The trajectory plots show how the vehicles execute the coordinated passing order
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="figs/fig17.png" width="470"><br>
+<img src="figs/fig17.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
 <td align="center" width="25%">
@@ -452,7 +452,7 @@ The trajectory plots show how the vehicles execute the coordinated passing order
 </table>
 
 <td align="center" width="25%">
-<img src="figs/fig21.png" width="650"><br>
+<img src="figs/fig21.png" width="500"><br>
 <b>Measured velocity profiles</b>
 </p>
 
