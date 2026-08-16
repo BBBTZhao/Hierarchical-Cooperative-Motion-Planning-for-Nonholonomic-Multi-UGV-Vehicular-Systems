@@ -388,22 +388,20 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 
 <table>
 <tr>
-<td align="center" width="35%">
+<td align="center" width="38%">
 <img src="figs/fig13.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="30%">
+<td align="center" width="24%">
 <img src="figs/fig14.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
-<td align="center" width="35%">
+<td align="center" width="38%">
 <img src="figs/fig19.png" width="400"><br>
 <b>Measured velocity profiles</b>
 </tr>
 </table>
 
-
-<!-- </p> -->
 
 The 3-D trajectories visualize the temporal evolution of the vehicle motions, while the top-view trajectories show the spatial paths through the obstacle-rich environment. The measured velocity profiles complement the video by showing the executable speed evolution of the physical UGVs.
 
