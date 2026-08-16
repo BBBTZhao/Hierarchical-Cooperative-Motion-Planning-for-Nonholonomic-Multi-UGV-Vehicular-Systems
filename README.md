@@ -298,32 +298,32 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 
 <table>
 <tr>
-<td align="center" width="40%">
-<img src="figs/fig7.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig7.png" width="320"><br>
 <b>Random-Obstacle: velocity profiles</b>
 </td>
-<td align="center" width="60%">
-<img src="figs/fig8.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig8.png" width="320"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="40%">
-<img src="figs/fig9.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig9.png" width="320"><br>
 <b>Intersection: velocity profiles</b>
 </td>
-<td align="center" width="60%">
-<img src="figs/fig10.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig10.png" width="320"><br>
 <b>Intersection: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="40%">
-<img src="figs/fig11.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig11.png" width="320"><br>
 <b>Narrow-Channel: velocity profiles</b>
 </td>
-<td align="center" width="60%">
-<img src="figs/fig12.png" width="350"><br>
+<td align="center" width="50%">
+<img src="figs/fig12.png" width="320"><br>
 <b>Narrow-Channel: front-wheel steering-angle profiles</b>
 </td>
 </tr>
