@@ -298,21 +298,21 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="40%">
 <img src="figs/fig7.png" width="200"><br>
 <b>Random-Obstacle: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="40%">
 <img src="figs/fig8.png" width="470"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="40%">
 <img src="figs/fig9.png" width="300"><br>
 <b>Intersection: velocity profiles</b>
 </td>
-<td align="center" width="50%">
+<td align="center" width="40%">
 <img src="figs/fig10.png" width="470"><br>
 <b>Intersection: front-wheel steering-angle profiles</b>
 </td>
