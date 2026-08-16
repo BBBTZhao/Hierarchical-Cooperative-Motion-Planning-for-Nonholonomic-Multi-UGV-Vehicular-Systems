@@ -399,6 +399,7 @@ The real-vehicle experiments evaluate the complete centralized–distributed fra
 <td align="center" width="37%">
 <img src="figs/fig19.png" width="400"><br>
 <b>Measured velocity profiles</b>
+</td>
 </tr>
 </table>
 
@@ -413,21 +414,20 @@ The 3-D trajectories visualize the temporal evolution of the vehicle motions, wh
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="37%">
 <img src="figs/fig15.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="25%">
+<td align="center" width="26%">
 <img src="figs/fig16.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
-</tr>
-</table>
-
-<td align="center" width="25%">
+<td align="center" width="37%">
 <img src="figs/fig20.png" width="400"><br>
 <b>Measured velocity profiles</b>
-</p>
+</td>
+</tr>
+</table>
 
 The trajectory plots show how the vehicles execute the coordinated passing order through the shared intersection. The measured velocity profiles provide the corresponding temporal motion information during the physical experiment.
 
@@ -439,21 +439,20 @@ The trajectory plots show how the vehicles execute the coordinated passing order
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="37%">
 <img src="figs/fig17.png" width="400"><br>
 <b>3-D spatiotemporal trajectories</b>
 </td>
-<td align="center" width="25%">
+<td align="center" width="26%">
 <img src="figs/fig18.png" width="470"><br>
 <b>2-D top-view trajectories</b>
 </td>
-</tr>
-</table>
-
-<td align="center" width="25%">
+<td align="center" width="37%">
 <img src="figs/fig21.png" width="400"><br>
 <b>Measured velocity profiles</b>
-</p>
+</td>
+</tr>
+</table>
 
 The 3-D and 2-D trajectories show the coordinated bidirectional traversal of the constrained passage. The measured velocity profiles illustrate the speed adjustments required to maintain safe and executable motion in the narrow environment.
 
