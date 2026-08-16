@@ -303,7 +303,7 @@ The dashed trajectories in the local-planning demonstrations denote the globally
 <b>Random-Obstacle: velocity profiles</b>
 </td>
 <td align="center" width="40%">
-<img src="figs/fig8.png" width="470"><br>
+<img src="figs/fig8.png" width="400"><br>
 <b>Random-Obstacle: front-wheel steering-angle profiles</b>
 </td>
 </tr>
